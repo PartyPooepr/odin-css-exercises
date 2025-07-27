@@ -1,0 +1,13 @@
+.dark.jaundice {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.dark {
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+}
+
+.jaundice {
+    background-color: lab(97.14% -21.56 94.48);
+}
