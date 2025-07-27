@@ -1,0 +1,18 @@
+.card {
+    background-color: rgb(254, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(144, 238, 144);
+    font-weight: 700;
+}
